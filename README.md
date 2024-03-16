@@ -31,5 +31,5 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="socials/linkedin.png" height="40em" align="center" alt="Follow Syed Raheel Ali on LinkedIn" title="Follow BatishLodhi on LinkedIn"/>](https://www.linkedin.com/in/syed-raheel-059773261/)
-[<img src="socials/instagram.svg" height="40em" align="center" alt="Follow Syed Raheel Ali on Instagram" title="Follow BatishLodhi on Instagram"/>](https://www.instagram.com/syed.raheel.ali__/)
+[<img src="linkedin.png" height="40em" align="center" alt="Follow Syed Raheel Ali on LinkedIn" title="Follow BatishLodhi on LinkedIn"/>](https://www.linkedin.com/in/syed-raheel-059773261/)
+[<img src="instagram.svg" height="40em" align="center" alt="Follow Syed Raheel Ali on Instagram" title="Follow BatishLodhi on Instagram"/>](https://www.instagram.com/syed.raheel.ali__/)
