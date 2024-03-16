@@ -1,5 +1,7 @@
 ![My Introduction GIF](banner.png)
 
+<img src="https://komarev.com/ghpvc/?username=syed-raheel-ali&label=Profile%20views&color=0e75b6&style=flat" alt="syed-raheel-ali" />
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Systems Engineering at Mehran University of Engineering and Technology, Graduating December 2026
 - 🔎 Still In-Search for my Interests
@@ -23,27 +25,11 @@
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
--i have upload my portfolio which is not fully complete yet :)
+- Non-Existant (Hoping to Upload my Portfolio pretty soon)
 <!--END_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="linkedin.png" height="40em" align="center" alt="Follow BatishLodhi on LinkedIn" title="Follow BatishLodhi on LinkedIn"/>](https://www.linkedin.com/in/batish-lodhi/)
-[<img src="instagram.svg" height="40em" align="center" alt="Follow BatishLodhi on Instagram" title="Follow BatishLodhi on Instagram"/>](https://www.instagram.com/batish_lodhi/)
-
-
-<!--
-**Syed-Raheel-Ali/Syed-Raheel-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="socials/linkedin.png" height="40em" align="center" alt="Follow Syed Raheel Ali on LinkedIn" title="Follow BatishLodhi on LinkedIn"/>](https://www.linkedin.com/in/syed-raheel-059773261/)
+[<img src="socials/instagram.svg" height="40em" align="center" alt="Follow Syed Raheel Ali on Instagram" title="Follow BatishLodhi on Instagram"/>](https://www.instagram.com/syed.raheel.ali__/)
