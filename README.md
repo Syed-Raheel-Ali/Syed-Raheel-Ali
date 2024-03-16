@@ -23,7 +23,7 @@
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-- Non-Existant (Hoping to Upload my Portfolio pretty soon)
+-i have upload my portfolio which is not fully complete yet :)
 <!--END_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
